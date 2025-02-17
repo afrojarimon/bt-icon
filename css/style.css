@@ -1,8 +1,12 @@
-.custom{
+.angry{
 	font-size: 50px;
 	color: tomato;
 }
-.def{
+p{
 	font-weight: 700;
 	color: #080420;
 }
+.scared {
+	font-size:50px;
+	colour:blue;
+} 
